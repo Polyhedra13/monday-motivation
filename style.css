@@ -1,0 +1,31 @@
+body {
+    background-color: #000000;
+}
+.poster {
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 50px;
+    color: #F4EAE0;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.monday-reminder-img {
+    border: 5px solid #F4DFC8; 
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: #FAF6F0;
+    font-size: 50px;
+}
+
+footer {
+    color:white;
+    text-align: center;
+    margin-top: 150px;
+    font-weight: lighter; 
+}
